@@ -1,0 +1,12 @@
+{
+  "project_type": "photo",
+  "date": "2021-01-12T20:11:08.101Z",
+  "title": "Test",
+  "description": "This is a fun test eh?",
+  "body": "Here the content that i want ot place inside my story",
+  "cover": "/img/placeholder-320x180.png",
+  "gallery": [
+    "/img/placeholder-320x180.png",
+    "/img/placeholder-320x180.png"
+  ]
+}
